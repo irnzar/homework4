@@ -1,0 +1,8 @@
+Time: 1706638130.4215524, Guess:76, random_integer: 70
+too high
+Time: 1706638133.685912, Guess:50, random_integer: 70
+too low
+Time: 1706638136.5391512, Guess:60, random_integer: 70
+too low
+Time: 1706638138.8433692, Guess:70, random_integer: 70
+Correct

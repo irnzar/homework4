@@ -1,0 +1,8 @@
+Time: 1706627599.0930905, Guess:50, random_integer: 27
+too high
+Time: 1706627604.0129733, Guess:25, random_integer: 27
+too low
+Time: 1706627608.1066074, Guess:33, random_integer: 27
+too high
+Time: 1706627612.7072797, Guess:27, random_integer: 27
+Correct

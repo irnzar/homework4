@@ -1,0 +1,12 @@
+Time: 1706627380.5818655, Guess:30, random_integer: 8
+too high
+Time: 1706627384.32887, Guess:15, random_integer: 8
+too high
+Time: 1706627387.544992, Guess:7, random_integer: 8
+too low
+Time: 1706627391.146359, Guess:10, random_integer: 8
+too high
+Time: 1706627394.1626558, Guess:9, random_integer: 8
+too high
+Time: 1706627396.458241, Guess:8, random_integer: 8
+Correct
